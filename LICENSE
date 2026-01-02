@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Orefie
+Copyright (c) 2026 FULL_extraction_LB5 Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,48 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+DISCLAIMER / AVERTISSEMENT :
+
+This software is provided for personal use only. The authors and contributors
+are not affiliated with Orange, Sagemcom, or any ISP provider.
+
+Use of this software is at your own risk. The authors are not responsible for:
+- Any damage to your Livebox or network equipment
+- Loss of Internet connectivity
+- Violation of your ISP's terms of service
+- Any other consequences of using this software
+
+Ce logiciel est fourni pour un usage personnel uniquement. Les auteurs et
+contributeurs ne sont pas affiliés à Orange, Sagemcom, ou tout autre FAI.
+
+L'utilisation de ce logiciel est à vos propres risques. Les auteurs ne sont
+pas responsables de :
+- Tout dommage à votre Livebox ou équipement réseau
+- Perte de connectivité Internet
+- Violation des conditions d'utilisation de votre FAI
+- Toute autre conséquence de l'utilisation de ce logiciel
+
+---
+
+SECURITY / SÉCURITÉ :
+
+This software extracts sensitive information from your Livebox including:
+- Authentication tokens (DHCP Option 90)
+- MAC addresses
+- Serial numbers
+- Network configuration
+
+DO NOT share the extracted files publicly as they contain personal and
+security-sensitive information.
+
+Ce logiciel extrait des informations sensibles de votre Livebox incluant :
+- Jetons d'authentification (Option DHCP 90)
+- Adresses MAC
+- Numéros de série
+- Configuration réseau
+
+NE PARTAGEZ PAS les fichiers extraits publiquement car ils contiennent des
+informations personnelles et sensibles pour la sécurité.
