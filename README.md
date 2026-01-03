@@ -2,6 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey.svg)
+![Downloads](https://img.shields.io/github/downloads/Orefie/Infos-configuration-router/total?style=flat-square&label=Téléchargements&color=blue)
 
 
 # 📦 FULL_extraction_LB5 - Version 1.0
